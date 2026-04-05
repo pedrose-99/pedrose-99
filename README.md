@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pedro%20Rose&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pedro%20Serrano&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
@@ -17,6 +17,7 @@
 ```javascript
 const pedro = {
   username: "pedrose-99",
+  name: "Pedro Serrano",
   role: "Full Stack Developer",
   education: "DAM - Desarrollo de Aplicaciones Multiplataforma",
   languages: ["Java", "JavaScript", "Python", "C", "C++", "HTML", "CSS"],
@@ -75,7 +76,13 @@ const pedro = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1" alt="Trophies row 1"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&rank=B,C" alt="Trophies row 2"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&rank=UNKNOWN,SECRET" alt="Trophies row 3"/>
 </div>
 
 ---
