@@ -66,9 +66,16 @@ const pedro = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrose-99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrose-99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=pedrose-99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrose-99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrose-99&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -76,21 +83,7 @@ const pedro = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1" alt="Trophies row 1"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&rank=B,C" alt="Trophies row 2"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=1&rank=UNKNOWN,SECRET" alt="Trophies row 3"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrose-99&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrose-99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
